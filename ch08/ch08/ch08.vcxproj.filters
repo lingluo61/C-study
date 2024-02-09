@@ -36,5 +36,17 @@
     <ClCompile Include="prac8.5.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="code8.7.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="prac8.6.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="code8.8.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="prac8.9.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
