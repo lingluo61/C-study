@@ -1,26 +1,20 @@
 #define _CRT_SECURE_NO_WARNINGS
 
-/*
-	格式化字符串"12345"并显示
-*/
 //#include <stdio.h>
 //
 //int main(void)
 //{
 //	char str[] = "12345";
 //
-//	printf("%s\n", str);         //12345       （原样输出）
-//	printf("%3s\n", str);        //12345       （至少输出三位）
-//	printf("%.3s\n", str);       //123         （至多输出三位）
-//	printf("%8s\n", str);        //   12345    （右对齐）
-//	printf("%-8s\n", str);       //12345       （左对齐）
+//	printf("%s\n", str);         //12345
+//	printf("%3s\n", str);        //12345
+//	printf("%.3s\n", str);       //123
+//	printf("%8s\n", str);        //   12345
+//	printf("%-8s\n", str);       //12345
 //
 //	return 0;
 //}
 
-/*
-	字符串数组
-*/
 //#include <stdio.h>
 //
 //int main(void)
@@ -34,9 +28,6 @@
 //	return 0;
 //}
 
-/*
-	读取并显示字符串数组
-*/
 //#include <stdio.h>
 //
 //int main(void)
@@ -46,7 +37,7 @@
 //
 //	for (i = 0; i < 3; i++)
 //	{
-//		printf("s[%d]：", i);
+//		printf("s[%d]锟斤拷", i);
 //		scanf("%s", s[i]);
 //	}
 //	for (i = 0; i < 3; i++)
@@ -55,10 +46,8 @@
 //	return 0;
 //}
 
-/*
-	练习9-3
-*/
 //#include <stdio.h>
+//#include <string.h>
 //
 //#define NUM 5
 //
